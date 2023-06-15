@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 My name's Mehmet Ubeyde Kara
 
-<!--
-**UbeydeKara/UbeydeKara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 &nbsp;Tech Stack (mostly)
 
-Here are some ideas to get you started:
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/apache_kafka-211D1E.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+However, I'm also intensively exploring such topics like (among other things): \
+🔹 Kubernetes \
+🔹 React.js
+
+## My GitHub Stats
+
+<a href="https://github.com/ubeydekara">
+ <img src="https://github-readme-stats.vercel.app/api?username=ubeydekara&show_icons=true&theme=transparent" alt="My github stats"/>
+</a>
